@@ -3,7 +3,7 @@ module "sandbox" {
 
   control_tower_parameters = {
     AccountEmail              = "tinhtq+duanb@agileops.vn"
-    AccountName               = "quang-tinh"
+    AccountName               = "tinhtqne"
     ManagedOrganizationalUnit = "Sandbox"
     SSOUserEmail              = "tinhtq@agileops.vn"
     SSOUserFirstName          = ""
