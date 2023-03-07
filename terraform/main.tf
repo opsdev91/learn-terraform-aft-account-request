@@ -7,7 +7,7 @@ module "sandbox" {
     ManagedOrganizationalUnit = "Sandbox"
     SSOUserEmail              = "tinhtq+test@agileops.vn"
     SSOUserFirstName          = "Test"
-    SSOUserLastName           = "User"
+    SSOUserLastName           = "Automation"
   }
 
   account_tags = {
