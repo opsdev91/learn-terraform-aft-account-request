@@ -2,7 +2,7 @@ module "sandbox" {
   source = "./modules/aft-account-request"
 
   control_tower_parameters = {
-    AccountEmail              = "tinhtq+test@agileops.vn"
+    AccountEmail              = "tinhtq+test2@agileops.vn"
     AccountName               = "quang-tinh"
     ManagedOrganizationalUnit = "Sandbox"
     SSOUserEmail              = "tinhtq@agileops.vn"
